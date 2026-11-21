@@ -1,5 +1,7 @@
 # Core Computer Vision & Image Processing
-opencv-python>=4.8.0
+
+# Use headless build for cloud deployments (no GUI/ffmpeg deps)
+opencv-python-headless>=4.8.0
 Pillow>=10.0.0
 
 # Deep Learning & Scientific Computing
