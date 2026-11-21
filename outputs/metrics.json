@@ -1,0 +1,16 @@
+{
+  "deep_hybrid_model": {
+    "accuracy": 0.9302325581395349,
+    "macro_precision": 0.9309441753177584,
+    "macro_recall": 0.9333772160786379,
+    "macro_f1": 0.9319371449806232,
+    "weighted_f1": 0.929831568234356,
+    "sample_count": 602
+  },
+  "rf_baseline": {
+    "accuracy": 0.9119601328903655,
+    "macro_precision": 0.9121218698578426,
+    "macro_recall": 0.9159996489380374,
+    "macro_f1": 0.913411976022815
+  }
+}

@@ -1,0 +1,15 @@
+============================================================
+FRUIT QUALITY GRADING SYSTEM - EVALUATION BENCHMARK
+============================================================
+
+Test Samples: 602 verified real-world images
+Classes:      ['fresh', 'medium', 'rotten']
+
+------------------------------------------------------------
+MODEL COMPARISON TABLE
+------------------------------------------------------------
+Model                               | Accuracy   | Macro F1  
+------------------------------------------------------------
+Random Forest (OpenCV Features)     |  91.20%    |  91.34%
+Hybrid MobileNetV2 + Feature Fusion |  93.02%    |  93.19%
+------------------------------------------------------------

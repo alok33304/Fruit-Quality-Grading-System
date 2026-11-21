@@ -1,0 +1,8 @@
+{
+  "use_features": true,
+  "classes": [
+    "fresh",
+    "medium",
+    "rotten"
+  ]
+}
